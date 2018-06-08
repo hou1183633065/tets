@@ -1,0 +1,1 @@
+webpackJsonp([2],{snu8:function(e,t,s){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var n={render:function(){var e=this.$createElement,t=this._self._c||e;return t("div",{staticClass:"share"},[t("p",[this._v(this._s(this.msg))])])},staticRenderFns:[]},r=s("VU/8")({data:function(){return{msg:"hello"}}},n,!1,null,null,null);t.default=r.exports}});
